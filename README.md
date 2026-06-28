@@ -1,6 +1,7 @@
 # milestone_2_flight_delay
 Repository used for SIADS 696 Milestone 2 final project submission. 
-Brendan Bebb, Gabrielle Braden, and Siddarth Moorthy
+
+Project Team Members: Brendan Bebb, Gabrielle Braden, and Siddarth Moorthy
 
 This project should be run in the following order:
 
