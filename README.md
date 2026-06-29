@@ -13,7 +13,7 @@ This project should be run in the following order:
 
 ## 2. Modeling Step After data cleaning is complete, choose one of the following paths:
 
-  ### a. Supervised Learning file (Supervised Learning.ipynb)
+  ### a. Supervised Learning file (SupervisedLearning.ipynb)
 
   Run this file if you want to execute our supervised learning model. 
   
